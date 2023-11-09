@@ -1,1 +1,1 @@
-# python_lore_subscribe
+Subscribe to newsletter with random generated emails
